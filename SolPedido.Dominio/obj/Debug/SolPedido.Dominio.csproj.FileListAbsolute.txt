@@ -1,0 +1,12 @@
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\bin\Debug\SolPedido.Dominio.dll
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\bin\Debug\SolPedido.Dominio.pdb
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\obj\Debug\SolPedido.Dominio.Recursos.Mensagem.resources
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\obj\Debug\SolPedido.Dominio.csproj.GenerateResource.cache
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\obj\Debug\SolPedido.Dominio.csproj.CopyComplete
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\obj\Debug\SolPedido.Dominio.dll
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\obj\Debug\SolPedido.Dominio.pdb
+C:\Users\Cesar Belli\source\repos\SolPedido\SolPedido.Dominio\obj\Debug\SolPedido.Dominio.csprojAssemblyReference.cache
